@@ -1,0 +1,13 @@
+0
+2712872 104126733 1759059791553327844 27ea206705a043b3e59a1c0a6db2b32f 0 /Users/fq/Zig/ffmpeg/lib/libavutil.a
+62519816 104126729 1759059791534607732 cc7b6266c59db91f63afd9eb16ae907f 0 /Users/fq/Zig/ffmpeg/lib/libavcodec.a
+18745544 104126732 1759059791546377432 de52479668db51130f42793c8ec06034 0 /Users/fq/Zig/ffmpeg/lib/libavformat.a
+129080 104126730 1759059791536124689 7cae7aa9316822dbfe8d7bf27696ac30 0 /Users/fq/Zig/ffmpeg/lib/libavdevice.a
+1141952 104126731 1759059791537901980 b1662e48f2c23833657b819478c4dea3 0 /Users/fq/Zig/ffmpeg/lib/libavfilter.a
+2416808 104126736 1759059791557714799 464ba488e12021bafe88269e424ad9ab 0 /Users/fq/Zig/ffmpeg/lib/libswscale.a
+359240 104126735 1759059791554702759 df6fe2ee3505d4c1cb5cd4d600ef549e 0 /Users/fq/Zig/ffmpeg/lib/libswresample.a
+134164 74627719 1731222137000000000 a6c582f4c68bb73fd08a9ad1751745e3 0 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox.tbd
+127013 74628798 1731203350000000000 3731e3720408b03e8c63716c83d327ec 0 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+249053 74623121 1731220800000000000 16746d0ada65c79372779bdc2447ce78 0 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia.tbd
+23411 74620684 1731221001000000000 f3b7f2d73cff7b8d0b7ce8bd48e6c33a 0 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo.tbd
+77116 74629937 1731221794000000000 d3162a181b6321e96b19272fbc2ad21a 0 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/VideoToolbox.framework/VideoToolbox.tbd

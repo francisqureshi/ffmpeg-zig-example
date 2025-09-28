@@ -1,0 +1,18 @@
+0
+887336 104080802 1759051592920517753 6e3563aaa9c9c34bac05b7a871da6f79 0 /Users/fq/Zig/ffmpeg/lib/libavutil.a
+14209944 104080798 1759051592907166531 a081892281720ee3dba5393933df2a5c 0 /Users/fq/Zig/ffmpeg/lib/libavcodec.a
+4202240 104080801 1759051592918901127 fc7e0d41cb2172e87b13bac9df5f14a7 0 /Users/fq/Zig/ffmpeg/lib/libavformat.a
+90320 104080799 1759051592908692324 46e9a2f36abea325edd78e65ba42ae91 0 /Users/fq/Zig/ffmpeg/lib/libavdevice.a
+5125168 104080800 1759051592914140955 fe5732d4f9664b1b98c8f97406422269 0 /Users/fq/Zig/ffmpeg/lib/libavfilter.a
+548280 104080804 1759051592922165422 d35d077796c6b8e251580b0e2a03bbcb 0 /Users/fq/Zig/ffmpeg/lib/libswscale.a
+113920 104080803 1759051592921309129 ce92853f97cb855aaa94336569b00d68 0 /Users/fq/Zig/ffmpeg/lib/libswresample.a
+1005 74581973 1731200482000000000 88384de118401de9bef176b67607441b 0 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/lib/libbz2.tbd
+1953 74583181 1731200770000000000 ca48ed1a15031f33fc01b4aff3b176b1 0 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/lib/libz.tbd
+3867 74583113 1731200849000000000 f53d18b94e5f0261c0323685d7f07afa 0 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/lib/libiconv.tbd
+185536 88025838 1748896348559212920 6b0d8d7eaab89bf1781fcb2605c7f86b 0 /opt/homebrew/Cellar/xz/5.8.1/lib/liblzma.dylib
+134164 74627719 1731222137000000000 a6c582f4c68bb73fd08a9ad1751745e3 0 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox.tbd
+127013 74628798 1731203350000000000 3731e3720408b03e8c63716c83d327ec 0 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+249053 74623121 1731220800000000000 16746d0ada65c79372779bdc2447ce78 0 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia.tbd
+23411 74620684 1731221001000000000 f3b7f2d73cff7b8d0b7ce8bd48e6c33a 0 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo.tbd
+77116 74629937 1731221794000000000 d3162a181b6321e96b19272fbc2ad21a 0 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/VideoToolbox.framework/VideoToolbox.tbd
+180372 74622577 1731220055000000000 a509194bd241d0c658a7d73a60288d05 0 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/Security.framework/Security.tbd
